@@ -1,4 +1,10 @@
-### Hi there 👋
+<img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="170px"> 
+<h1 align="center"> 𝘏𝘦𝘭𝘭𝘰, 𝘪𝘵𝘴 𝘮𝘦 𝘈𝘯𝘢𝘮 𝘈𝘩𝘮𝘦𝘥 </h1>
+<br>
+
+
+![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ianamahmed&theme=chartreuse-dark&layout=compact)
+![Anam Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ianamahmed&&show_icons=true&theme=chartreuse-dark)
 
 <!--
 **ianamahmed/ianamahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
