@@ -32,7 +32,7 @@ A motivated girl with a great passion for technology and software development.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianamahmed&layout=compact&theme=react)](https://github.com/ianamahmed/github-readme-stats)
 
 
-![Anam Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ianamahmed&theme=react&show_icons=true))
+![Anam Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ianamahmed&theme=react&show_icons=true)
 
 
 <!-- **ianamahmed/ianamahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
