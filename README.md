@@ -6,7 +6,7 @@
 -  I am interested in **Software Developer** , **Web Development** and **Google Analytics**
 -  My favourite language for **DSA** and **general programming** is **C++**
 
-A motivated girl with a great passion for technology and software development.
+`A motivated girl with a great passion for technology and software development.`
 
 <!-- - 🔭 I’m currently working on spaceX project
 - 🌱 I’m currently learning ...
