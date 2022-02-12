@@ -1,4 +1,10 @@
-<h1 align="center"><img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="170px" height="160px" > 𝙃𝙚𝙡𝙡𝙤,𝙄𝙩𝙨 𝙢𝙚 𝘼𝙣𝙖𝙢 𝘼𝙝𝙢𝙚𝙙 </h1>
+<h1 align="center"><img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" width="170px" height="160px" > 𝙃𝙚𝙡𝙡𝙤, 𝙄𝙩𝙨 𝙢𝙚 𝘼𝙣𝙖𝙢 𝘼𝙝𝙢𝙚𝙙 </h1>
+
+##  About Meee <img src="https://media.giphy.com/media/Qp8JVw4n37No6spF3s/giphy.gif" width="80px"> 
+-  My name is **Anam Ahmed**
+-  I'm a student of **B.Tech Computer Science Engineering** 
+-  I am interested in **Software Developer** , **Web Development** and **Google Analytics**
+-  My favourite language for **DSA** and **general programming** is **C++**
 
 A motivated girl with a great passion for technology and software development.
 
