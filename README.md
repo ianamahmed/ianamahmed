@@ -3,7 +3,7 @@
 ##  About Meee <img src="https://media.giphy.com/media/Qp8JVw4n37No6spF3s/giphy.gif" width="80px"> 
 -  My name is **Anam Ahmed**
 -  I'm a student of **B.Tech Computer Science Engineering** 
--  I am interested in **Software Developer** , **Web Development** and **Google Analytics**
+-  I am interested in **Software Developer** and **Web Development** 
 -  My favourite language for **DSA** and **general programming** is **C++**
 
 `A motivated girl with a great passion for technology and software development.`
